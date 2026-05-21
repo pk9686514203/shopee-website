@@ -1,0 +1,1020 @@
+[
+  {
+    "success": true,
+    "imageUrl": "/uploads/1779260053691-Picsart_24-08-10_08-19-55-281.jpg",
+    "gender": "men",
+    "skinTone": "medium neutral",
+    "bodyType": "balanced",
+    "faceShape": "oval",
+    "hairstyle": "short layered",
+    "fashionStyle": "smart casual",
+    "recommendedColors": [
+      "charcoal",
+      "ivory",
+      "olive",
+      "denim blue",
+      "burgundy"
+    ],
+    "fashionScore": 88,
+    "styleTips": [
+      "Use one structured layer to sharpen the silhouette.",
+      "Keep contrast near the face with ivory, charcoal, navy, or olive.",
+      "Finish with clean sneakers, a watch, and one statement accessory."
+    ],
+    "outfits": {
+      "men": [
+        {
+          "id": "men-casual",
+          "title": "City Casual",
+          "category": "streetwear",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "premium t-shirt",
+            "relaxed overshirt",
+            "straight jeans",
+            "white sneakers",
+            "steel watch",
+            "wayfarer glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "white",
+            "olive",
+            "denim"
+          ],
+          "tip": "A relaxed top half with straight denim keeps the look current without feeling loud.",
+          "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men streetwear outfit: premium t-shirt, relaxed overshirt, straight jeans, white sneakers, steel watch, wayfarer glasses"
+        },
+        {
+          "id": "men-formal",
+          "title": "Sharp Formal",
+          "category": "formal",
+          "occasion": "formal wear",
+          "score": 91,
+          "items": [
+            "tailored shirt",
+            "slim trousers",
+            "leather loafers",
+            "minimal watch",
+            "square glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "tan"
+          ],
+          "tip": "Choose crisp collars and a watch with a simple dial for a premium office finish.",
+          "imageUrl": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men formal outfit: tailored shirt, slim trousers, leather loafers, minimal watch, square glasses"
+        },
+        {
+          "id": "men-party",
+          "title": "After Dark",
+          "category": "partywear",
+          "occasion": "party wear",
+          "score": 90,
+          "items": [
+            "satin shirt",
+            "black jeans",
+            "suede shoes",
+            "chain bracelet",
+            "gradient glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "burgundy",
+            "gunmetal"
+          ],
+          "tip": "Use texture instead of heavy prints for a cleaner night-out look.",
+          "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men partywear outfit: satin shirt, black jeans, suede shoes, chain bracelet, gradient glasses"
+        },
+        {
+          "id": "men-ethnic",
+          "title": "Modern Heritage",
+          "category": "traditional",
+          "occasion": "traditional wear",
+          "score": 93,
+          "items": [
+            "embroidered kurta",
+            "tapered pants",
+            "mojari shoes",
+            "classic watch"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "cream",
+            "emerald",
+            "gold"
+          ],
+          "tip": "A monochrome kurta set with warm metallic accents photographs beautifully.",
+          "imageUrl": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men traditional outfit: embroidered kurta, tapered pants, mojari shoes, classic watch"
+        }
+      ],
+      "women": [
+        {
+          "id": "women-casual",
+          "title": "Soft Street",
+          "category": "streetwear",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "ribbed t-shirt",
+            "cropped hoodie",
+            "wide jeans",
+            "chunky sneakers",
+            "oval glasses",
+            "stack watch"
+          ],
+          "colors": [
+            "ivory",
+            "rose",
+            "washed blue",
+            "white"
+          ],
+          "tip": "Balance a soft top palette with structured denim for a Pinterest-ready silhouette.",
+          "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women streetwear outfit: ribbed t-shirt, cropped hoodie, wide jeans, chunky sneakers, oval glasses, stack watch"
+        },
+        {
+          "id": "women-formal",
+          "title": "Clean Executive",
+          "category": "formal",
+          "occasion": "formal wear",
+          "score": 92,
+          "items": [
+            "silk blouse",
+            "tailored trousers",
+            "pointed shoes",
+            "slim watch",
+            "minimal glasses"
+          ],
+          "colors": [
+            "champagne",
+            "navy",
+            "black",
+            "pearl"
+          ],
+          "tip": "Keep the neckline clean and add one polished accessory for a Zara-like finish.",
+          "imageUrl": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women formal outfit: silk blouse, tailored trousers, pointed shoes, slim watch, minimal glasses"
+        },
+        {
+          "id": "women-party",
+          "title": "Gallery Night",
+          "category": "partywear",
+          "occasion": "party wear",
+          "score": 91,
+          "items": [
+            "statement top",
+            "dark cargos",
+            "heeled sandals",
+            "metal watch",
+            "cat-eye glasses"
+          ],
+          "colors": [
+            "black",
+            "copper",
+            "plum",
+            "smoke"
+          ],
+          "tip": "Pair shine with matte bottoms so the outfit feels styled, not overloaded.",
+          "imageUrl": "https://images.unsplash.com/photo-1495385794356-15371f348c31?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women partywear outfit: statement top, dark cargos, heeled sandals, metal watch, cat-eye glasses"
+        },
+        {
+          "id": "women-ethnic",
+          "title": "Festive Modern",
+          "category": "traditional",
+          "occasion": "traditional wear",
+          "score": 95,
+          "items": [
+            "silk saree",
+            "structured blouse",
+            "embroidered heels",
+            "gold watch",
+            "delicate glasses"
+          ],
+          "colors": [
+            "emerald",
+            "gold",
+            "wine",
+            "ivory"
+          ],
+          "tip": "Pick jewelry and watch metals from the same family for a refined festive look.",
+          "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women traditional outfit: silk saree, structured blouse, embroidered heels, gold watch, delicate glasses"
+        }
+      ]
+    },
+    "createdAt": "2026-05-20T06:54:16.435Z"
+  },
+  {
+    "success": true,
+    "imageUrl": "/uploads/1779259837663-passport-size.jpeg",
+    "gender": "men",
+    "skinTone": "medium neutral",
+    "bodyType": "balanced",
+    "faceShape": "oval",
+    "hairstyle": "short layered",
+    "fashionStyle": "smart casual",
+    "recommendedColors": [
+      "charcoal",
+      "ivory",
+      "olive",
+      "denim blue",
+      "burgundy"
+    ],
+    "fashionScore": 88,
+    "styleTips": [
+      "Use one structured layer to sharpen the silhouette.",
+      "Keep contrast near the face with ivory, charcoal, navy, or olive.",
+      "Finish with clean sneakers, a watch, and one statement accessory."
+    ],
+    "outfits": {
+      "men": [
+        {
+          "id": "men-casual",
+          "title": "City Casual",
+          "category": "streetwear",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "premium t-shirt",
+            "relaxed overshirt",
+            "straight jeans",
+            "white sneakers",
+            "steel watch",
+            "wayfarer glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "white",
+            "olive",
+            "denim"
+          ],
+          "tip": "A relaxed top half with straight denim keeps the look current without feeling loud.",
+          "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men streetwear outfit: premium t-shirt, relaxed overshirt, straight jeans, white sneakers, steel watch, wayfarer glasses"
+        },
+        {
+          "id": "men-formal",
+          "title": "Sharp Formal",
+          "category": "formal",
+          "occasion": "formal wear",
+          "score": 91,
+          "items": [
+            "tailored shirt",
+            "slim trousers",
+            "leather loafers",
+            "minimal watch",
+            "square glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "tan"
+          ],
+          "tip": "Choose crisp collars and a watch with a simple dial for a premium office finish.",
+          "imageUrl": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men formal outfit: tailored shirt, slim trousers, leather loafers, minimal watch, square glasses"
+        },
+        {
+          "id": "men-party",
+          "title": "After Dark",
+          "category": "partywear",
+          "occasion": "party wear",
+          "score": 90,
+          "items": [
+            "satin shirt",
+            "black jeans",
+            "suede shoes",
+            "chain bracelet",
+            "gradient glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "burgundy",
+            "gunmetal"
+          ],
+          "tip": "Use texture instead of heavy prints for a cleaner night-out look.",
+          "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men partywear outfit: satin shirt, black jeans, suede shoes, chain bracelet, gradient glasses"
+        },
+        {
+          "id": "men-ethnic",
+          "title": "Modern Heritage",
+          "category": "traditional",
+          "occasion": "traditional wear",
+          "score": 93,
+          "items": [
+            "embroidered kurta",
+            "tapered pants",
+            "mojari shoes",
+            "classic watch"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "cream",
+            "emerald",
+            "gold"
+          ],
+          "tip": "A monochrome kurta set with warm metallic accents photographs beautifully.",
+          "imageUrl": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "men traditional outfit: embroidered kurta, tapered pants, mojari shoes, classic watch"
+        }
+      ],
+      "women": [
+        {
+          "id": "women-casual",
+          "title": "Soft Street",
+          "category": "streetwear",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "ribbed t-shirt",
+            "cropped hoodie",
+            "wide jeans",
+            "chunky sneakers",
+            "oval glasses",
+            "stack watch"
+          ],
+          "colors": [
+            "ivory",
+            "rose",
+            "washed blue",
+            "white"
+          ],
+          "tip": "Balance a soft top palette with structured denim for a Pinterest-ready silhouette.",
+          "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women streetwear outfit: ribbed t-shirt, cropped hoodie, wide jeans, chunky sneakers, oval glasses, stack watch"
+        },
+        {
+          "id": "women-formal",
+          "title": "Clean Executive",
+          "category": "formal",
+          "occasion": "formal wear",
+          "score": 92,
+          "items": [
+            "silk blouse",
+            "tailored trousers",
+            "pointed shoes",
+            "slim watch",
+            "minimal glasses"
+          ],
+          "colors": [
+            "champagne",
+            "navy",
+            "black",
+            "pearl"
+          ],
+          "tip": "Keep the neckline clean and add one polished accessory for a Zara-like finish.",
+          "imageUrl": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women formal outfit: silk blouse, tailored trousers, pointed shoes, slim watch, minimal glasses"
+        },
+        {
+          "id": "women-party",
+          "title": "Gallery Night",
+          "category": "partywear",
+          "occasion": "party wear",
+          "score": 91,
+          "items": [
+            "statement top",
+            "dark cargos",
+            "heeled sandals",
+            "metal watch",
+            "cat-eye glasses"
+          ],
+          "colors": [
+            "black",
+            "copper",
+            "plum",
+            "smoke"
+          ],
+          "tip": "Pair shine with matte bottoms so the outfit feels styled, not overloaded.",
+          "imageUrl": "https://images.unsplash.com/photo-1495385794356-15371f348c31?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women partywear outfit: statement top, dark cargos, heeled sandals, metal watch, cat-eye glasses"
+        },
+        {
+          "id": "women-ethnic",
+          "title": "Festive Modern",
+          "category": "traditional",
+          "occasion": "traditional wear",
+          "score": 95,
+          "items": [
+            "silk saree",
+            "structured blouse",
+            "embroidered heels",
+            "gold watch",
+            "delicate glasses"
+          ],
+          "colors": [
+            "emerald",
+            "gold",
+            "wine",
+            "ivory"
+          ],
+          "tip": "Pick jewelry and watch metals from the same family for a refined festive look.",
+          "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=900&q=85",
+          "imageAlt": "women traditional outfit: silk saree, structured blouse, embroidered heels, gold watch, delicate glasses"
+        }
+      ]
+    },
+    "createdAt": "2026-05-20T06:50:38.908Z"
+  },
+  {
+    "success": true,
+    "imageUrl": "/uploads/1779258018691-Picsart_24-08-10_08-19-55-281.jpg",
+    "gender": "men",
+    "skinTone": "medium neutral",
+    "bodyType": "balanced",
+    "faceShape": "oval",
+    "hairstyle": "short layered",
+    "fashionStyle": "smart casual",
+    "recommendedColors": [
+      "charcoal",
+      "ivory",
+      "olive",
+      "denim blue",
+      "burgundy"
+    ],
+    "fashionScore": 88,
+    "styleTips": [
+      "Use one structured layer to sharpen the silhouette.",
+      "Keep contrast near the face with ivory, charcoal, navy, or olive.",
+      "Finish with clean sneakers, a watch, and one statement accessory."
+    ],
+    "outfits": {
+      "men": [
+        {
+          "id": "men-casual",
+          "title": "City Casual",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "premium t-shirt",
+            "relaxed overshirt",
+            "straight jeans",
+            "white sneakers",
+            "steel watch",
+            "wayfarer glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "white",
+            "olive",
+            "denim"
+          ],
+          "tip": "A relaxed top half with straight denim keeps the look current without feeling loud."
+        },
+        {
+          "id": "men-formal",
+          "title": "Sharp Formal",
+          "occasion": "formal wear",
+          "score": 91,
+          "items": [
+            "tailored shirt",
+            "slim trousers",
+            "leather loafers",
+            "minimal watch",
+            "square glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "tan"
+          ],
+          "tip": "Choose crisp collars and a watch with a simple dial for a premium office finish."
+        },
+        {
+          "id": "men-party",
+          "title": "After Dark",
+          "occasion": "party wear",
+          "score": 90,
+          "items": [
+            "satin shirt",
+            "black jeans",
+            "suede shoes",
+            "chain bracelet",
+            "gradient glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "burgundy",
+            "gunmetal"
+          ],
+          "tip": "Use texture instead of heavy prints for a cleaner night-out look."
+        },
+        {
+          "id": "men-ethnic",
+          "title": "Modern Heritage",
+          "occasion": "traditional wear",
+          "score": 93,
+          "items": [
+            "embroidered kurta",
+            "tapered pants",
+            "mojari shoes",
+            "classic watch"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "cream",
+            "emerald",
+            "gold"
+          ],
+          "tip": "A monochrome kurta set with warm metallic accents photographs beautifully."
+        }
+      ],
+      "women": [
+        {
+          "id": "women-casual",
+          "title": "Soft Street",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "ribbed t-shirt",
+            "cropped hoodie",
+            "wide jeans",
+            "chunky sneakers",
+            "oval glasses",
+            "stack watch"
+          ],
+          "colors": [
+            "ivory",
+            "rose",
+            "washed blue",
+            "white"
+          ],
+          "tip": "Balance a soft top palette with structured denim for a Pinterest-ready silhouette."
+        },
+        {
+          "id": "women-formal",
+          "title": "Clean Executive",
+          "occasion": "formal wear",
+          "score": 92,
+          "items": [
+            "silk blouse",
+            "tailored trousers",
+            "pointed shoes",
+            "slim watch",
+            "minimal glasses"
+          ],
+          "colors": [
+            "champagne",
+            "navy",
+            "black",
+            "pearl"
+          ],
+          "tip": "Keep the neckline clean and add one polished accessory for a Zara-like finish."
+        },
+        {
+          "id": "women-party",
+          "title": "Gallery Night",
+          "occasion": "party wear",
+          "score": 91,
+          "items": [
+            "statement top",
+            "dark cargos",
+            "heeled sandals",
+            "metal watch",
+            "cat-eye glasses"
+          ],
+          "colors": [
+            "black",
+            "copper",
+            "plum",
+            "smoke"
+          ],
+          "tip": "Pair shine with matte bottoms so the outfit feels styled, not overloaded."
+        },
+        {
+          "id": "women-ethnic",
+          "title": "Festive Modern",
+          "occasion": "traditional wear",
+          "score": 95,
+          "items": [
+            "silk saree",
+            "structured blouse",
+            "embroidered heels",
+            "gold watch",
+            "delicate glasses"
+          ],
+          "colors": [
+            "emerald",
+            "gold",
+            "wine",
+            "ivory"
+          ],
+          "tip": "Pick jewelry and watch metals from the same family for a refined festive look."
+        }
+      ]
+    },
+    "createdAt": "2026-05-20T06:20:22.428Z"
+  },
+  {
+    "success": true,
+    "imageUrl": "/uploads/1779257900817-passport-size.jpeg",
+    "gender": "men",
+    "skinTone": "medium neutral",
+    "bodyType": "balanced",
+    "faceShape": "oval",
+    "hairstyle": "short layered",
+    "fashionStyle": "smart casual",
+    "recommendedColors": [
+      "charcoal",
+      "ivory",
+      "olive",
+      "denim blue",
+      "burgundy"
+    ],
+    "fashionScore": 88,
+    "styleTips": [
+      "Use one structured layer to sharpen the silhouette.",
+      "Keep contrast near the face with ivory, charcoal, navy, or olive.",
+      "Finish with clean sneakers, a watch, and one statement accessory."
+    ],
+    "outfits": {
+      "men": [
+        {
+          "id": "men-casual",
+          "title": "City Casual",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "premium t-shirt",
+            "relaxed overshirt",
+            "straight jeans",
+            "white sneakers",
+            "steel watch",
+            "wayfarer glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "white",
+            "olive",
+            "denim"
+          ],
+          "tip": "A relaxed top half with straight denim keeps the look current without feeling loud."
+        },
+        {
+          "id": "men-formal",
+          "title": "Sharp Formal",
+          "occasion": "formal wear",
+          "score": 91,
+          "items": [
+            "tailored shirt",
+            "slim trousers",
+            "leather loafers",
+            "minimal watch",
+            "square glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "tan"
+          ],
+          "tip": "Choose crisp collars and a watch with a simple dial for a premium office finish."
+        },
+        {
+          "id": "men-party",
+          "title": "After Dark",
+          "occasion": "party wear",
+          "score": 90,
+          "items": [
+            "satin shirt",
+            "black jeans",
+            "suede shoes",
+            "chain bracelet",
+            "gradient glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "burgundy",
+            "gunmetal"
+          ],
+          "tip": "Use texture instead of heavy prints for a cleaner night-out look."
+        },
+        {
+          "id": "men-ethnic",
+          "title": "Modern Heritage",
+          "occasion": "traditional wear",
+          "score": 93,
+          "items": [
+            "embroidered kurta",
+            "tapered pants",
+            "mojari shoes",
+            "classic watch"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "cream",
+            "emerald",
+            "gold"
+          ],
+          "tip": "A monochrome kurta set with warm metallic accents photographs beautifully."
+        }
+      ],
+      "women": [
+        {
+          "id": "women-casual",
+          "title": "Soft Street",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "ribbed t-shirt",
+            "cropped hoodie",
+            "wide jeans",
+            "chunky sneakers",
+            "oval glasses",
+            "stack watch"
+          ],
+          "colors": [
+            "ivory",
+            "rose",
+            "washed blue",
+            "white"
+          ],
+          "tip": "Balance a soft top palette with structured denim for a Pinterest-ready silhouette."
+        },
+        {
+          "id": "women-formal",
+          "title": "Clean Executive",
+          "occasion": "formal wear",
+          "score": 92,
+          "items": [
+            "silk blouse",
+            "tailored trousers",
+            "pointed shoes",
+            "slim watch",
+            "minimal glasses"
+          ],
+          "colors": [
+            "champagne",
+            "navy",
+            "black",
+            "pearl"
+          ],
+          "tip": "Keep the neckline clean and add one polished accessory for a Zara-like finish."
+        },
+        {
+          "id": "women-party",
+          "title": "Gallery Night",
+          "occasion": "party wear",
+          "score": 91,
+          "items": [
+            "statement top",
+            "dark cargos",
+            "heeled sandals",
+            "metal watch",
+            "cat-eye glasses"
+          ],
+          "colors": [
+            "black",
+            "copper",
+            "plum",
+            "smoke"
+          ],
+          "tip": "Pair shine with matte bottoms so the outfit feels styled, not overloaded."
+        },
+        {
+          "id": "women-ethnic",
+          "title": "Festive Modern",
+          "occasion": "traditional wear",
+          "score": 95,
+          "items": [
+            "silk saree",
+            "structured blouse",
+            "embroidered heels",
+            "gold watch",
+            "delicate glasses"
+          ],
+          "colors": [
+            "emerald",
+            "gold",
+            "wine",
+            "ivory"
+          ],
+          "tip": "Pick jewelry and watch metals from the same family for a refined festive look."
+        }
+      ]
+    },
+    "createdAt": "2026-05-20T06:18:22.239Z"
+  },
+  {
+    "success": true,
+    "imageUrl": "/uploads/1779257458337-WhatsApp-Image-2026-05-19-at-10-36-44-PM.jpeg",
+    "gender": "men",
+    "skinTone": "medium neutral",
+    "bodyType": "balanced",
+    "faceShape": "oval",
+    "hairstyle": "short layered",
+    "fashionStyle": "smart casual",
+    "recommendedColors": [
+      "charcoal",
+      "ivory",
+      "olive",
+      "denim blue",
+      "burgundy"
+    ],
+    "fashionScore": 88,
+    "styleTips": [
+      "Use one structured layer to sharpen the silhouette.",
+      "Keep contrast near the face with ivory, charcoal, navy, or olive.",
+      "Finish with clean sneakers, a watch, and one statement accessory."
+    ],
+    "outfits": {
+      "men": [
+        {
+          "id": "men-casual",
+          "title": "City Casual",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "premium t-shirt",
+            "relaxed overshirt",
+            "straight jeans",
+            "white sneakers",
+            "steel watch",
+            "wayfarer glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "white",
+            "olive",
+            "denim"
+          ],
+          "tip": "A relaxed top half with straight denim keeps the look current without feeling loud."
+        },
+        {
+          "id": "men-formal",
+          "title": "Sharp Formal",
+          "occasion": "formal wear",
+          "score": 91,
+          "items": [
+            "tailored shirt",
+            "slim trousers",
+            "leather loafers",
+            "minimal watch",
+            "square glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "tan"
+          ],
+          "tip": "Choose crisp collars and a watch with a simple dial for a premium office finish."
+        },
+        {
+          "id": "men-party",
+          "title": "After Dark",
+          "occasion": "party wear",
+          "score": 90,
+          "items": [
+            "satin shirt",
+            "black jeans",
+            "suede shoes",
+            "chain bracelet",
+            "gradient glasses"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "black",
+            "burgundy",
+            "gunmetal"
+          ],
+          "tip": "Use texture instead of heavy prints for a cleaner night-out look."
+        },
+        {
+          "id": "men-ethnic",
+          "title": "Modern Heritage",
+          "occasion": "traditional wear",
+          "score": 93,
+          "items": [
+            "embroidered kurta",
+            "tapered pants",
+            "mojari shoes",
+            "classic watch"
+          ],
+          "colors": [
+            "charcoal",
+            "ivory",
+            "cream",
+            "emerald",
+            "gold"
+          ],
+          "tip": "A monochrome kurta set with warm metallic accents photographs beautifully."
+        }
+      ],
+      "women": [
+        {
+          "id": "women-casual",
+          "title": "Soft Street",
+          "occasion": "casual wear",
+          "score": 94,
+          "items": [
+            "ribbed t-shirt",
+            "cropped hoodie",
+            "wide jeans",
+            "chunky sneakers",
+            "oval glasses",
+            "stack watch"
+          ],
+          "colors": [
+            "ivory",
+            "rose",
+            "washed blue",
+            "white"
+          ],
+          "tip": "Balance a soft top palette with structured denim for a Pinterest-ready silhouette."
+        },
+        {
+          "id": "women-formal",
+          "title": "Clean Executive",
+          "occasion": "formal wear",
+          "score": 92,
+          "items": [
+            "silk blouse",
+            "tailored trousers",
+            "pointed shoes",
+            "slim watch",
+            "minimal glasses"
+          ],
+          "colors": [
+            "champagne",
+            "navy",
+            "black",
+            "pearl"
+          ],
+          "tip": "Keep the neckline clean and add one polished accessory for a Zara-like finish."
+        },
+        {
+          "id": "women-party",
+          "title": "Gallery Night",
+          "occasion": "party wear",
+          "score": 91,
+          "items": [
+            "statement top",
+            "dark cargos",
+            "heeled sandals",
+            "metal watch",
+            "cat-eye glasses"
+          ],
+          "colors": [
+            "black",
+            "copper",
+            "plum",
+            "smoke"
+          ],
+          "tip": "Pair shine with matte bottoms so the outfit feels styled, not overloaded."
+        },
+        {
+          "id": "women-ethnic",
+          "title": "Festive Modern",
+          "occasion": "traditional wear",
+          "score": 95,
+          "items": [
+            "silk saree",
+            "structured blouse",
+            "embroidered heels",
+            "gold watch",
+            "delicate glasses"
+          ],
+          "colors": [
+            "emerald",
+            "gold",
+            "wine",
+            "ivory"
+          ],
+          "tip": "Pick jewelry and watch metals from the same family for a refined festive look."
+        }
+      ]
+    },
+    "createdAt": "2026-05-20T06:10:58.983Z"
+  }
+]

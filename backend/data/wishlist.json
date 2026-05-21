@@ -1,0 +1,31 @@
+[
+  {
+    "outfit": {
+      "id": "men-party",
+      "title": "After Dark",
+      "occasion": "party wear",
+      "score": 90,
+      "items": [
+        "satin shirt",
+        "black jeans",
+        "suede shoes",
+        "chain bracelet",
+        "gradient glasses"
+      ],
+      "colors": [
+        "charcoal",
+        "ivory",
+        "black",
+        "burgundy",
+        "gunmetal"
+      ],
+      "tip": "Use texture instead of heavy prints for a cleaner night-out look."
+    },
+    "analysis": {
+      "gender": "men",
+      "skinTone": "medium neutral",
+      "bodyType": "balanced"
+    },
+    "createdAt": "2026-05-20T06:20:39.176Z"
+  }
+]

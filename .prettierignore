@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.output/
+.vercel/
+.wrangler/
+.tanstack/
+package-lock.json
+bun.lock
+build-check.txt
+build-log.txt
+build-verify.txt
