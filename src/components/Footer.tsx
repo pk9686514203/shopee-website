@@ -38,7 +38,7 @@ export function Footer() {
           ))}
         </div>
         <div className="border-t border-background/10 mt-12 pt-6 flex flex-col md:flex-row gap-3 justify-between items-center text-xs text-background/60">
-          <span>© 2026 Shopee Mania. Crafted with care.</span>
+          <span>© 2026 Shopee Mania. All rights reserved.</span>
           <span className="tracking-[0.25em] uppercase">
             Designed by <span className="gold-text font-bold">Pradeep</span> © 2026
           </span>
